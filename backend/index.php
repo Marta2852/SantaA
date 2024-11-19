@@ -2,7 +2,6 @@
     require "Aircraft.php";
     require "Destination.php";
 
-
     echo "meow";
 
     function addFour($x){
